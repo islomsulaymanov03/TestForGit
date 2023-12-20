@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\bin\Debug\net6.0\NumberSystems.exe
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\bin\Debug\net6.0\NumberSystems.deps.json
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\bin\Debug\net6.0\NumberSystems.runtimeconfig.json
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\bin\Debug\net6.0\NumberSystems.dll
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\bin\Debug\net6.0\NumberSystems.pdb
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.AssemblyInfo.cs
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.dll
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\refint\NumberSystems.dll
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.pdb
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\NumberSystems.genruntimeconfig.cache
+C:\Users\hp\Desktop\NumberSystems\NumberSystems\obj\Debug\net6.0\ref\NumberSystems.dll
